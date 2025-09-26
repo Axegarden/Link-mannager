@@ -6,10 +6,10 @@ document.getElementById('button4').addEventListener('click', openLink4);
 
 //change the redirect link here
 //if the link is empty, the button will be disabled
-const link1 = '';
-const link2 = '';
-const link3 = 'https://discord.gg/TEK9BtEtkC';
-const link4 = 'https://www.instagram.com/lanudvalget_htxsesg/';
+const link1 = 'https://forms.gle/edVBeFhuLvMgxUtd6';            //LAN tilmelding
+const link2 = 'https://forms.gle/AjVcjYXt5Ca8Dn379';            //Turnerings registrering
+const link3 = 'https://discord.gg/TEK9BtEtkC';                  //Discord
+const link4 = 'https://www.instagram.com/lanudvalget_htxsesg/'; //Instagram
 
 // Open a new link when the button is clicked
 function openLink1() {
