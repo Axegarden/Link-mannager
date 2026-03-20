@@ -9,7 +9,7 @@ document.getElementById('button4').addEventListener('click', openLink4);
 const link1 = '';            //LAN tilmelding
 const link2 = '';            //Turnerings registrering
 const link3 = 'https://discord.gg/TEK9BtEtkC';                  //Discord
-const link4 = 'https://www.instagram.com/lanudvalget_htxsesg/'; //Instagram
+const link4 = 'https://www.instagram.com/svendborg.htx.lan.udvagl/'; //Instagram
 
 // Open a new link when the button is clicked
 function openLink1() {
