@@ -6,8 +6,8 @@ document.getElementById('button4').addEventListener('click', openLink4);
 
 //change the redirect link here
 //if the link is empty, the button will be disabled
-const link1 = '';            //LAN tilmelding
-const link2 = '';            //Turnerings registrering
+const link1 = 'https://forms.gle/q7a8Ad3M2A6o7GHCA';            //LAN tilmelding
+const link2 = 'https://forms.gle/kfB4LRsQnrKMdzrc9';            //Turnerings registrering
 const link3 = 'https://discord.gg/TEK9BtEtkC';                  //Discord
 const link4 = 'https://www.instagram.com/svendborg.htx.lan.udvagl/'; //Instagram
 
